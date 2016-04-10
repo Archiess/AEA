@@ -1,0 +1,35 @@
+.content {
+  width: 288px;
+  height:517px;
+  border:1px solid black;
+  padding:0;
+}
+
+.wrapper{
+  margin:10px;
+}
+.form-inline{
+  padding:0;
+}
+.form-control{
+  border:2px solid black;
+  border-radius: 0;
+  height:25px;
+  float:right;
+}
+
+.cont-table{
+  border:2px solid black;
+  padding: 5px 10px 0 10px;
+}
+
+td{
+  border:2px solid black !important;
+  padding:5px !important;
+}
+
+h1{
+  font-size: 25px;
+  text-align: center;
+  margin:0;
+}
